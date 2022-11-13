@@ -99,6 +99,7 @@ replay_pid*
 # ==== 우리가 개인적으로 추가한 것들 ====
 .classpath
 .gitignore
+/Gukmo/NCS
 
 # 부트스트랩,제이쿼리,통계 등등 자료 폴더임
 /Gukmo/src/main/webapp/resources
